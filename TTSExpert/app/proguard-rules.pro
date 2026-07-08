@@ -1,0 +1,14 @@
+# Add project specific ProGuard rules here.
+# You can control the set of applied configuration files using the
+# proguardFiles setting in build.gradle.kts.
+
+# Keep TTS related classes
+-keep class android.speech.tts.** { *; }
+-keep class com.google.android.gms.** { *; }
+
+# Compose
+-keep class androidx.compose.** { *; }
+
+# Kotlin
+-dontwarn kotlin.**
+-keepclassmembers class kotlin.** { *; }

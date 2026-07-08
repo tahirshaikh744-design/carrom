@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TTS Expert</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_voice">Select Voice</string>
+    <string name="enter_text">Enter text to convert to speech</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="export_audio">Export Audio</string>
+    <string name="pitch">Pitch</string>
+    <string name="speed">Speed</string>
+    <string name="volume">Volume</string>
+    <string name="demo">Demo</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="unknown_gender">Unknown</string>
+    <string name="file_name_dialog_title">Save Audio File</string>
+    <string name="file_name_hint">Enter file name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="audio_saved">Audio saved successfully</string>
+    <string name="audio_save_failed">Failed to save audio</string>
+    <string name="tts_not_ready">TTS engine not ready</string>
+    <string name="no_voices_available">No voices available for selected language</string>
+    <string name="permission_required">Storage permission required to export audio</string>
+</resources>
